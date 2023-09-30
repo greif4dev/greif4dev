@@ -9,7 +9,7 @@
     
     Hello,
     
-    I'am João Pedro, i have 20 years old, currently im a analisys and system development student.
+    My name is João Pedro, im 20 years old,currently im a analisys and system development student.
     
-    Nowadays im working as a web developer for the  brazilian government and im ready to improve my skills
+    Nowadays im working as a web developer for the brazilian government and im ready to improve my skills.
 </p>
