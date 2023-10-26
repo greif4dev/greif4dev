@@ -10,3 +10,63 @@
     </h3>
     <h1>🐱‍💻</h1>
 </div>
+<br>
+<div  align='center'>
+ <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greif4dev&layout=compact&theme=calm_pink&count_private=true" />  
+    ⚡
+ <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=greif4dev&show_icons=true&theme=bear&count_private=true" />
+</div>
+
+---
+
+<div align='center'>
+    <h3>My Stacks</h3>
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+</div>
+
+---
+
+<div align='center'>
+    <h3>My Libs & Frameworks</h3>
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="55" height="55"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="60" height="60"/>
+</div>
+
+---
+
+<div align='center'>
+    <h3>My Tools</h3>
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="65" height="65"/>&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+    <hr>
+</div>
+<br>
+<br>
+<br>
+<br>
+<div align='center'>
+    (❁´◡`❁)
+    <br>
+    <br>
+    <br>
+    <img src="gif.gif">
+</div>
+
+
+
