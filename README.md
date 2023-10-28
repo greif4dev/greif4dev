@@ -12,9 +12,13 @@
 </div>
 <br>
 <div  align='center'>
- <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greif4dev&layout=compact&theme=calm_pink&count_private=true" />  
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greif4dev&layout=compact&theme=calm_pink&count_private=true" />
+    <br>
+    <br>
     ⚡
- <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=greif4dev&show_icons=true&theme=bear&count_private=true" />
+    <br>
+    <br>
+ <img height="200" src="https://github-readme-stats.vercel.app/api?username=greif4dev&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 ---
@@ -31,7 +35,7 @@
 ---
 
 <div align='center'>
-    <h3>My Libs & Frameworks</h3>
+    <h3>What I Work With</h3>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/>&nbsp;
