@@ -12,7 +12,7 @@
 </div>
 <br>
 <div  align='center'>
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greif4dev&layout=compact&theme=calm_pink&count_private=true" />
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greif4dev&layout=compact&theme=calm_pink&hide=html,css&count_private=true" />
     <br>
     <br>
     ⚡
